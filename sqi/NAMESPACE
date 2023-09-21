@@ -1,0 +1,14 @@
+import(quantreg)
+import(mvtnorm)
+
+export("sqr","summary.sqr","plot.sqr","sq.test","maxT_simulation")
+
+exportPattern("^sqbench.*")
+
+S3method(summary, sqr)
+S3method(plot, sqr)
+#S3method(sq.test, default)
+#S3method(sq.test, formula)
+
+
+

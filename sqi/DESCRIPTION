@@ -1,0 +1,10 @@
+Package: sqi
+Version: 1.0.0
+Date: 2023-01-30
+Depends: R (>= 2.9.0), quantreg, mvtnorm
+Title: Simultaneous quantile inference 
+Author: Joe Sexton <joesexton0@gmail.com>
+Description: Simultaneous inference across multiple quantiles, regression and testing.
+Maintainer: Joe Sexton <joesexton0@gmail.com>
+License: GPL (>= 2)
+Repository: CRAN
